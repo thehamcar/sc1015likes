@@ -5,7 +5,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 
 # Contributors
 - @euggddllg  - Data Extraction & Cleaning
-- @thehamcar  - Polynomial Regression, Ensemble Learning, Some data prep (point 11)
+- @thehamcar  - Polynomial Regression, Ensemble Learning
 - @aditya     - Exploratory Analysis
 
 # Problem Definition
